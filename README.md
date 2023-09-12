@@ -1,6 +1,11 @@
 # Advanced-Algorithms-And-Data-Structure
 
 ## Template and Guideline notes
+
+### Graph
+- [Tarjan SCC](https://github.com/louisfghbvc/Advanced-Algorithms-And-Data-Structure/tree/main/SCC)
+
+## TODO
 - ODT
 - suffix array
 - mo's algorithm
@@ -8,7 +13,6 @@
 - 模擬退火
 - Sparse Table
 - Segment Tree
-- Tarjan SCC
 - CDQ分治
 - Maximum Bipartite Matching
 - A*
