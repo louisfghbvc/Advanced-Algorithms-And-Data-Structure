@@ -5,6 +5,9 @@
 ### Graph
 - [Tarjan SCC](https://github.com/louisfghbvc/Advanced-Algorithms-And-Data-Structure/tree/main/SCC)
 
+### Math
+- [Prime](https://github.com/louisfghbvc/Advanced-Algorithms-And-Data-Structure/tree/main/Prime)
+
 ## TODO
 - ODT
 - suffix array
