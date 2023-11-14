@@ -4,6 +4,7 @@
 
 ### Graph
 - [Tarjan SCC](https://github.com/louisfghbvc/Advanced-Algorithms-And-Data-Structure/tree/main/SCC)
+- [Weight Union Find](https://github.com/louisfghbvc/Advanced-Algorithms-And-Data-Structure/tree/main/Weight%20Union%20Find%20)
 
 ### Math
 - [Prime](https://github.com/louisfghbvc/Advanced-Algorithms-And-Data-Structure/tree/main/Prime)
