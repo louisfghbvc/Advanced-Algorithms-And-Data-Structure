@@ -4,6 +4,7 @@
 
 ### Graph
 - [Tarjan SCC](https://github.com/louisfghbvc/Advanced-Algorithms-And-Data-Structure/tree/main/SCC)
+- [Tarjan BCC](https://github.com/louisfghbvc/Advanced-Algorithms-And-Data-Structure/tree/main/BCC)
 - [Weight Union Find](https://github.com/louisfghbvc/Advanced-Algorithms-And-Data-Structure/tree/main/Weight%20Union%20Find%20)
 
 ### Math
