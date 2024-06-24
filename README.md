@@ -11,6 +11,10 @@
 - [Prime](https://github.com/louisfghbvc/Advanced-Algorithms-And-Data-Structure/tree/main/Prime)
 - [Ternary Search](https://github.com/louisfghbvc/Advanced-Algorithms-And-Data-Structure/tree/main/Ternary%20Search)
 
+### Data Structure
+
+- [Segment Tree](https://github.com/louisfghbvc/Advanced-Algorithms-And-Data-Structure/tree/main/Segment%20Tree)
+
 ## TODO
 - ODT
 - suffix array
