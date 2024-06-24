@@ -22,7 +22,6 @@
 - treap
 - 模擬退火
 - Sparse Table
-- Segment Tree
 - CDQ分治
 - Maximum Bipartite Matching
 - A*
