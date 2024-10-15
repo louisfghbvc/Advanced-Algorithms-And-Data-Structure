@@ -69,7 +69,7 @@ vector<int> multiply(vector<int> const& a, vector<int> const& b) {
 }        
 ```
 
-### FFT WITH MOD
+### FFT with mod
 ```cpp=
 /**
  * Author: Ludo Pulles, chilli, Simon Lindholm
