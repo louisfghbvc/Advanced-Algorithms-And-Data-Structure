@@ -10,6 +10,7 @@
 ### Math
 - [Prime](https://github.com/louisfghbvc/Advanced-Algorithms-And-Data-Structure/tree/main/Prime)
 - [Ternary Search](https://github.com/louisfghbvc/Advanced-Algorithms-And-Data-Structure/tree/main/Ternary%20Search)
+- [FFT/NTT](https://github.com/louisfghbvc/Advanced-Algorithms-And-Data-Structure/tree/main/Numeric/FFT)
 
 ### Data Structure
 
