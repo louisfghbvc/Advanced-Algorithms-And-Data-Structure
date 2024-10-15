@@ -70,7 +70,7 @@ vector<int> multiply(vector<int> const& a, vector<int> const& b) {
 ```
 
 ### FFT with mod
-```cpp=
+```cpp
 /**
  * Author: Ludo Pulles, chilli, Simon Lindholm
  * Date: 2019-01-09
@@ -150,6 +150,25 @@ vl convMod(const vl &a, const vl &b) {
         res[i] = ((av % M * cut + bv) % M * cut + cv) % M;
     }
     return res;
+}
+```
+
+#### example usage
+```cpp
+void solve(int gg)
+{
+    // cout << "Case #" << T+1 << ": ";
+    // goal: find the convolution
+
+    int n, m;
+    cin >> n >> m;
+    vi a(n), b(m);
+    cin >> a >> b;
+
+    auto res = convMod<998244353>(a, b);
+    for (auto &x : res)
+        cout << x << ' ';
+    cout << '\n';
 }
 ```
 
