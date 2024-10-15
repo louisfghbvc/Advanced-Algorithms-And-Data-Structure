@@ -41,7 +41,6 @@
 - euler phi
 - heavy-light-decomposition
 - 三分搜尋
-- fft
 - random
 - find cycle
 - tree hashing
