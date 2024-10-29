@@ -111,6 +111,5 @@ struct MaxFlow {
 ```
 
 ### 例題
-
-https://codeforces.com/contest/2026/problem/E
-https://codeforces.com/contest/1082/problem/G
+- https://codeforces.com/contest/2026/problem/E
+- https://codeforces.com/contest/1082/problem/G
